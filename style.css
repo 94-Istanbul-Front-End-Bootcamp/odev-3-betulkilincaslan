@@ -77,15 +77,7 @@ form > div > div:nth-child(5) button {
   transition: all 0.5s ease;
 }
 form > div > div:nth-child(5) button:hover {
-  width: 100%;
-  border: 0;
-  outline: 0;
-  cursor: pointer;
-  font-size: 20px;
-  font-weight: bold;
-  border-radius: 20px;
   background-color: rgb(96, 21, 177);
-  box-shadow: 5px 5px 10px rgb(69, 69, 69);
   color: rgb(223, 50, 28);
 }
 input[type="text"],
